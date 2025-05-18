@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Rishabh kashyap
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on hacking
-- 📫 my insta id rishabh_2407
+- 💞️ I’m looking to collaborate on hacking .
 
 
 <!---
